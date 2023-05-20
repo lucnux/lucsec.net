@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>updates on Home</title>
+    <link>http://lucsec.net/tags/updates/</link>
+    <description>Recent content in updates on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 May 2023 11:35:31 +0100</lastBuildDate><atom:link href="http://lucsec.net/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hondacrv</title>
+      <link>http://lucsec.net/hondacrv/</link>
+      <pubDate>Sat, 20 May 2023 11:35:31 +0100</pubDate>
+      
+      <guid>http://lucsec.net/hondacrv/</guid>
+      <description>i have a honda crv its very nice its good stuff yeah</description>
+      <content>&lt;p&gt;i have a honda crv its very nice its good stuff yeah&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://lucsec.net/about/</link>
+      <pubDate>Sat, 20 May 2023 11:32:39 +0100</pubDate>
+      
+      <guid>http://lucsec.net/about/</guid>
+      <description>HERE IS SOME CONTENT. this is lal markdoown
+markdown markdown #here its an item
+-list -this -thing -here
+dictonary hector vector hec vec </description>
+      <content>&lt;p&gt;HERE IS SOME CONTENT. this is lal markdoown&lt;/p&gt;
+&lt;h2 id=&#34;markdown&#34;&gt;markdown&lt;/h2&gt;
+&lt;h3 id=&#34;markdown-1&#34;&gt;markdown&lt;/h3&gt;
+&lt;p&gt;#here its an item&lt;/p&gt;
+&lt;p&gt;-list
+-this
+-thing
+-here&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;dictonary&lt;/dt&gt;
+&lt;dd&gt;hector vector&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;ol&gt;
+&lt;li&gt;hec&lt;/li&gt;
+&lt;li&gt;vec&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
