@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>updates on Home</title>
-    <link>http://lucsec.net/tags/updates/</link>
+    <link>https://lucsec.net/tags/updates/</link>
     <description>Recent content in updates on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2023 11:35:31 +0100</lastBuildDate><atom:link href="http://lucsec.net/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 May 2023 11:35:31 +0100</lastBuildDate><atom:link href="https://lucsec.net/tags/updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hondacrv</title>
-      <link>http://lucsec.net/hondacrv/</link>
+      <link>https://lucsec.net/hondacrv/</link>
       <pubDate>Sat, 20 May 2023 11:35:31 +0100</pubDate>
       
-      <guid>http://lucsec.net/hondacrv/</guid>
+      <guid>https://lucsec.net/hondacrv/</guid>
       <description>i have a honda crv its very nice its good stuff yeah</description>
       <content>&lt;p&gt;i have a honda crv its very nice its good stuff yeah&lt;/p&gt;
 </content>
@@ -20,10 +20,10 @@
     
     <item>
       <title>About</title>
-      <link>http://lucsec.net/about/</link>
+      <link>https://lucsec.net/about/</link>
       <pubDate>Sat, 20 May 2023 11:32:39 +0100</pubDate>
       
-      <guid>http://lucsec.net/about/</guid>
+      <guid>https://lucsec.net/about/</guid>
       <description>HERE IS SOME CONTENT. this is lal markdoown
 markdown markdown #here its an item
 -list -this -thing -here
