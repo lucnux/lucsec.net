@@ -1,0 +1,1 @@
+Deployed Hugo blog files
